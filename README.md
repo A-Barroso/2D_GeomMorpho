@@ -1,9 +1,15 @@
 # 2D Geometric Morphometric Analyses
 
-A Geometric Morphometric investigation of artefacts from various archaeological assemblages.
+A script for geometric morphometric investigations of artefacts from various archaeological assemblages.
+
+### Scripts to be uploaded soon  
+
+
+
+<br>
+
 
 This is an updated and expanded version of the code for my MSc Dissertation. The original can be found via: https://github.com/A-Barroso/MSc-Dissertation
-
 
 Feel free to reach out if you have any questions or comments.
 
@@ -44,8 +50,4 @@ Feel free to reach out if you have any questions or comments.
 <br>
 
 
-<br>
 
-
-
-## Hieararchical Cluster Analysis of all handaxes
