@@ -2,7 +2,7 @@
 
 A script for geometric morphometric investigations of artefacts from various archaeological assemblages.
 
-### Scripts to be uploaded soon  
+###             * Scripts to be uploaded soon *  
 
 
 
