@@ -1,6 +1,10 @@
 # 2D Geometric Morphometric Analyses
 
-A script for geometric morphometric investigations of artefacts from various archaeological assemblages.
+A workflow for geometric morphometric investigations of artefacts from various archaeological assemblages.
+
+
+<br>
+
 
 ###             * Scripts to be uploaded soon *  
 
